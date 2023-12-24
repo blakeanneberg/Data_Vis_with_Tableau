@@ -34,5 +34,10 @@ What kind of data connection is neceassy when saving a tableau public
 # Questions we are trying to answer 
 
 1. Fit what you will deliveer to a swt of questions the end user needs to answer
-
+    a. identify potential quesztsions for a data set
+    b. 
+2. Line Chart
+3. Treemap
+    a. good for the data exploration phase
+4. Bar chart
 
