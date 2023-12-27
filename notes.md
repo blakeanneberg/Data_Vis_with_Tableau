@@ -1,3 +1,32 @@
+# Questions we are trying to answer 
+
+1. Fit what you will deliveer to a swt of questions the end user needs to answer
+    a. identify potential quesztsions for a data set
+    b. 
+2. Line Chart
+3. Treemap
+    a. good for the data exploration phase
+4. Bar chart
+
+# Data Visualization Best Practices
+1. Know yor audience
+    - Who asked you to make the viz?
+    - What questions are they trying to answer?
+    - Probe for clarity when questions are vague?
+2. Know your data
+    - Investigate to find holes
+    - See where result seem to be off
+    - Know what each grain of data means
+3. Use Color purposefully or use shapes and labels
+    - Start with everything in basic gray
+    - Add color only as needed
+    - Dont use more than 5 colors
+4. Less is more, simpler is usually better
+5. Get feedback early and often
+
+
+
+
 # Exam for Week 2 questions
 - Welcome screen: 
     A. Check out vis of the day.
@@ -30,14 +59,13 @@
 What kind of data connection is neceassy when saving a tableau public
     a. Data extract
 
+# Exam for Week 3 questions
+- What does "Grain of data" mean? What one row of data represents.
+- Great way to use bar chart? Finding patterns in data.
+- Which route? 390 oos
+- Tableau automatiically creates a hierarchy for any data field.
+-During which phase of building a vis do treemaps work well? Data exploration phase.
+- Min number of dimentions for view of treemap button to light up in Show Me menu? One dimension.
+Which of following are options under Run On in Add Filter Action dialogue box? Hovfer, Select
 
-# Questions we are trying to answer 
-
-1. Fit what you will deliveer to a swt of questions the end user needs to answer
-    a. identify potential quesztsions for a data set
-    b. 
-2. Line Chart
-3. Treemap
-    a. good for the data exploration phase
-4. Bar chart
 
