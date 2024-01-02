@@ -32,7 +32,18 @@
 
 4. Less is more, simpler is usually better
     - Turning dta into something clear and meaningful in minds of the audence. 
+    - Speed in understanding the data is better than accuracy when looking at it visually.
 5. Get feedback early and often
+
+# Types of Visualizations
+1. Big text: good for KPI's, or high level info and dashboards
+2. Tables: Good if you can use a 2 x 2 table, convey comparisons across categories.
+3. Heat Map table: takes info you have in a table and colors it based on certain set of parameters.
+4. Scatter Plot: best for continuous variable info, discoer inference and view potential data relationships. Perfect for comparing continous variables becase clusers will emerge that can indicate possible correlation 
+5. Line graph: Vis data across time, spot trends with time variables, allows for potential forcasting. 
+6. Bar graph: Vert, Horizontal and stacked, depending on amount of info you need. Waterfall graphs used to see answer quickly. 
+7. Map used with spacial components of lat and longatude. 
+8. pie Chart: bad rep, but 
 
 
 
