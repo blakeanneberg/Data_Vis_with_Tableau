@@ -13,15 +13,25 @@
     - Who asked you to make the viz?
     - What questions are they trying to answer?
     - Probe for clarity when questions are vague?
+    - driving how we think and make judgemnts; Automatic and immediate perception and then slower and more deliberate cognition
 2. Know your data
     - Investigate to find holes
     - See where result seem to be off
     - Know what each grain of data means
 3. Use Color purposefully or use shapes and labels
-    - Start with everything in basic gray
-    - Add color only as needed
+    - Start with everything in basic gray, then Add color only as needed
     - Dont use more than 5 colors
+    - Color hue 
+    - Orientation
+    - Texutre 
+    - Position and alignment
+    - Color Brightness 
+    - Color Saturation
+    - Size 
+    - Shape
+
 4. Less is more, simpler is usually better
+    - Turning dta into something clear and meaningful in minds of the audence. 
 5. Get feedback early and often
 
 
