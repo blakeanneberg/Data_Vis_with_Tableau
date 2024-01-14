@@ -45,8 +45,15 @@
 7. Map used with spacial components of lat and longatude. 
 8. pie Chart: bad rep, but 
 
+# Principles of visual perception
 
-
+## Gestalt school of thought
+1. Proximity: when elements are placed close close together allowimg the, to be percived by our m
+2. Similarity: when we connect things that look alike as being 
+3. Enclosure: using contrast un order to differentiate between information 
+4. Closure: People like to keep things as simple as possible as long as it fits the existing construct thas in our head.
+5. Continuity: making sure the group works with all the info shown.
+6. Connection: Thanks that are connected to each other with a line are related
 
 # Exam for Week 2 questions
 - Welcome screen: 
