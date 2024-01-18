@@ -59,7 +59,7 @@
 - Use color to differentiate from other items. Show other items, but make them the same color.
 
 ## Pre-Attentive attributes 
-- Way to get a brain to focus on certain aspects of a visualization.
+- Way to get a brain to focus on certain aspects of a visualization by chaning one item to focus users attention: Size, color, orientation, shape, line composition, enclosure, intensity, position.
 - Memory of humans
 1. Iconic
 2. Short Term
