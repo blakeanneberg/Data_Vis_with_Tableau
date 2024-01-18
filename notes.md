@@ -55,6 +55,16 @@
 5. Continuity: making sure the group works with all the info shown.
 6. Connection: Thanks that are connected to each other with a line are related
 
+## Contrast
+- Use color to differentiate from other items. Show other items, but make them the same color.
+
+## Pre-Attentive attributes 
+- Way to get a brain to focus on certain aspects of a visualization.
+- Memory of humans
+1. Iconic
+2. Short Term
+3. Long Term
+
 # Exam for Week 2 questions
 - Welcome screen: 
     A. Check out vis of the day.
